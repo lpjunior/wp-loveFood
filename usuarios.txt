@@ -1,0 +1,9 @@
+ Administrador -> Tem acesso a todas as funcionalidades do Wordpress
+ 
+ Editor -> Pode publicar e gerenciar posts e páginas, mesmo que o conteúdo tenha sido incluído por outro usuário. Não acessa funções administrativas, como adicionar plugins.
+ 
+ Autor -> Pode publicar e gerir seus próprios posts, mas não de terceiros.
+ 
+ Colaborador -> Pode escrever posts, mas não pode publicar
+ 
+ Assinante -> Só pode visualizar e alterar seu próprio perfil
